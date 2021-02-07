@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "demoTest": "testcafe chrome test/session/test1.js",
+        "SecondTest": "testcafe chrome test/session/ T Test2 "
+    },
+    "dependencies": {
+        "testcafe-reporter-dashboard": "0.0.16"
+    }
+}
